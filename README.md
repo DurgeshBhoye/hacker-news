@@ -4,8 +4,8 @@
 
 2. Open a new terminal and run following commands,
 
-   ```bash
-cd frontend
+```bash
+   cd frontend
 ```
 
 ```bash
