@@ -19,8 +19,14 @@
   npm start
 ```
 
-#### Tech stack used:
+### Tech stack used:
 
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=white)
 ![reactrouter](https://img.shields.io/badge/react_router_dom-CA4245?style=for-the-badge&labelColor=black&logo=reactrouter&logoColor=white)
+
+### Project Screenshots 
+
+
+![App screenshot](https://github.com/DurgeshBhoye/MERN-Todo-List-App/blob/main/images/MERN%20Todo%20List.jpg?raw=true "Optional title")
+
