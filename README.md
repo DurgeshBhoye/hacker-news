@@ -4,9 +4,11 @@
 
 2. Open a new terminal and run following commands,
 
-```bash
-  cd frontend - if already in frontend folder skip this command
+   ```bash
+cd frontend
+```
 
+```bash
   npm install react-scripts
 ```
 
