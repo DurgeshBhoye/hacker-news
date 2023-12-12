@@ -10,7 +10,7 @@
   npm install react-scripts
 ```
 
-3. Run frontend using below command,
+3. After that run frontend using below command to start app,
 
 ```bash
   npm start
