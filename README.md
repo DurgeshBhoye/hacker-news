@@ -1,4 +1,4 @@
-### Steps to configure and run frontend:
+### Steps to configure and run app:
 
 1. Open frontend folder in vscode 
 
