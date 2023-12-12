@@ -16,4 +16,10 @@
   npm start
 ```
 
+#### Tech stack used:
 
+**Client:** React, Axios
+
+**Server:** Node, Express
+
+**Database:** MongoDB 
