@@ -18,8 +18,6 @@
 
 #### Tech stack used:
 
-**Client:** React, Axios
-
-**Server:** Node, Express
-
-**Database:** MongoDB 
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=white)
+![reactrouter](https://img.shields.io/badge/react_router_dom-CA4245?style=for-the-badge&labelColor=black&logo=reactrouter&logoColor=white)
