@@ -26,7 +26,6 @@
 ![reactrouter](https://img.shields.io/badge/react_router_dom-CA4245?style=for-the-badge&labelColor=black&logo=reactrouter&logoColor=white)
 
 ### Project Screenshots 
+<img src="img/screenshot2.jpg" alt="SS1">
+<img src="img/screenshot1.jpg" alt="SS2">
 
-<p align="center">
-  <img src="img/screenshot1.jpg" alt="SS1">
-</p>
