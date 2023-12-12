@@ -27,6 +27,6 @@
 
 ### Project Screenshots 
 
-
-![App screenshot](https://github.com/DurgeshBhoye/MERN-Todo-List-App/blob/main/images/MERN%20Todo%20List.jpg?raw=true "Optional title")
-
+<p align="center">
+  <img src="img/screenshot1.jpg" alt="SS1">
+</p>
