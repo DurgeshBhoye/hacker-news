@@ -7,6 +7,7 @@
 ```bash
    cd frontend
 ```
+- if already in frontend folder skip above command and run below commands.
 
 ```bash
   npm install react-scripts
